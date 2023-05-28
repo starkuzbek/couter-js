@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.blok{
+    width: 300px;
+    height: 210px;
+    margin: 5% auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    background-color: rgb(242, 168, 72);
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px;
+    align-items: center;
+    padding-top: 15px;
+    margin-top: 150px;
+}
+font{
+    color: white;
+}
+.all{
+    width: 100%;
+    padding: 1% 5%;
+}
+button{
+    margin-top: 10px;
+    width: 70px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: -5px;
+    border: 1px solid;
+    font-size: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+p{
+    margin: 1% auto;
+    margin-top: 20px;
+    width: 90%;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid;
+    text-align: right;
+    padding: 0 5%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+h1{
+    align-items: center;
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    background-color: rgb(242, 168, 72);
+    width: 300px;
+    font-size: 25px;
+    color: white;
+    height: 65px;
+    padding-top: 5px;
+    border-radius: 50px;
+    margin-left: 50px;
+}
